@@ -1,0 +1,6 @@
+### IntelliJ IDEA ###
+Mediatheque/**/*.iml
+Mediatheque/**/.idea
+Mediatheque/**/out/
+Mediatheque/**/src/main/**/out/
+Mediatheque/**/src/test/**/out/
